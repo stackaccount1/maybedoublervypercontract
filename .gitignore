@@ -4,3 +4,6 @@ __pycache__
 build/
 reports/
 .env
+.idea
+tests/
+.brownie-config.yaml
